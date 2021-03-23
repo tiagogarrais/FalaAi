@@ -4,4 +4,4 @@ Aplicativo para dispositivos Android que fala o que você escrever. Simples, dir
 Instruções: Baixe e execute o arquivo FalaAi.apk no seu dispositivo android.
 
 
-Não exige permissões especiais, não contém propaganda e não usa a internet. Use sem restrições, divirta-se!
+Você vai precisar autorizar a instalação porque ele está sendo oferecido fora da PlayStore, mas ele não vai exigir permissões especiais, não contém propaganda e não usa a internet. Use sem restrições, divirta-se!
